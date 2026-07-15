@@ -391,9 +391,4 @@ streamlit run interface/app.py
 ```
 *This will launch the app in your default browser at https://localhost:8501.*
 
-## Authors
-
-#### **[Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)** - AI/ML Researcher
----
-*This project was developed as part of an ongoing research initiative in medical image classification using deep learning.*
 
